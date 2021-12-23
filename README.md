@@ -9,3 +9,4 @@ Tool for extract DAT archives from games developed by [Pivotal Games](https://en
 | Conflict: Vietnam |
 | Conflict: Global Terror |
 | Conflict: Denied Ops |
+| The Great Escape |
